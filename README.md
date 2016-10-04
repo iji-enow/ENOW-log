@@ -7,4 +7,4 @@ Download [logstash](https://www.elastic.co/kr/downloads/logstash), [elastic sear
 
 Log for ENOW
 ----------
-For now we only have logstash config file but we are planning to  produce you docker which contains elastic search, kibana, logstash for ENOW log system.
+For now we only have logstash config file. but we are planning to produce you docker which contains elastic search, kibana, logstash for ENOW log system.
