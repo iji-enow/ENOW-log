@@ -1,5 +1,5 @@
 cluster.name: ENOW-elasticsearch
-path.data: /usr/local/var/elasticsearch/
-path.logs: /usr/local/var/log/elasticsearch/
+path.data: /tmp/data
+path.logs: /tmp/log
 http.cors.allow-origin: "/.*/"
 http.cors.enabled: true
